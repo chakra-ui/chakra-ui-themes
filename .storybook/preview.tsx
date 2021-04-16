@@ -13,6 +13,7 @@ export const globalTypes = {
       icon: 'paintbrush',
       items: [
         { value: 'default', title: 'Chakra UI' },
+        { value: 'material', title: 'Material Design' },
         { value: 'tailwindcss', title: 'Tailwindcss' },
       ],
     },

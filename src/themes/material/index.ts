@@ -1,6 +1,6 @@
 import { extendTheme } from '@chakra-ui/react'
-import colors from 'tailwindcss/colors'
+import { colors } from '@material-ui/core'
 
 export default extendTheme({
-  colors: { ...colors },
+  colors,
 })

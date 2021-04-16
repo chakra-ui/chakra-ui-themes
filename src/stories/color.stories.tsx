@@ -5,4 +5,4 @@ export default {
   title: 'Colors',
 }
 
-export const Colors = () => <Button>Hello World</Button>
+export const Colors = () => <Button colorScheme="blue">Hello World</Button>
