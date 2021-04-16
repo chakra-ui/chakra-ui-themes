@@ -6,7 +6,7 @@
   "scripts": {
     "start": "yarn storybook",
     "lint": "eslint --ext .ts,.tsx src",
-    "storybook": "start-storybook -p 8081",
+    "storybook": "start-storybook -p 6006",
     "storybook:build": "build-storybook -o out"
   },
   "devDependencies": {
@@ -15,7 +15,6 @@
     "@commitlint/config-conventional": "12.1.1",
     "@emotion/react": "11.1.5",
     "@emotion/styled": "11.3.0",
-    "@storybook/addon-a11y": "6.2.8",
     "@storybook/addon-essentials": "6.2.8",
     "@storybook/react": "6.2.8",
     "@types/react": "17.0.3",

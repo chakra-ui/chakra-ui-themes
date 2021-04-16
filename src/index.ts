@@ -1,1 +1,3 @@
-export const Name = "Hello World";
+import tailwindcss from './themes/tailwindcss'
+
+export { tailwindcss }
