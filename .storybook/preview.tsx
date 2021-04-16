@@ -14,6 +14,7 @@ export const globalTypes = {
       items: [
         { value: 'default', title: 'Chakra UI' },
         { value: 'material', title: 'Material Design' },
+        { value: 'stripe', title: 'Stripe' },
         { value: 'tailwindcss', title: 'Tailwindcss' },
       ],
     },
