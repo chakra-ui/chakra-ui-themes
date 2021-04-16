@@ -7,7 +7,7 @@
     "start": "yarn storybook",
     "lint": "eslint --ext .ts,.tsx src",
     "storybook": "start-storybook -p 8081",
-    "storybook:build": "build-storybook -o dist"
+    "storybook:build": "build-storybook -o out"
   },
   "devDependencies": {
     "@chakra-ui/react": "1.5.1",
